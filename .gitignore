@@ -1,0 +1,6 @@
+node_modules/
+npm-debug.log
+dist
+client/components/Search.js
+client/components/Search2.js
+server/server-cdn.js
