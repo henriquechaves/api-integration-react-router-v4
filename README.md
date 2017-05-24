@@ -1,6 +1,6 @@
 # Integration Api with React Router v4
 
-It's a CASE consuming resource of the following general purpose API:
+This is a CASE that consumes resource of the following general purpose API with React Router v4:
 
 - [Punk API](https://punkapi.com/documentation/v2)
 
